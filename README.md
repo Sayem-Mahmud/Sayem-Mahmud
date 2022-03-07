@@ -1,6 +1,4 @@
-<p align="center">
-    <h1> Hello, I am Sayem Mahmud <h1>
-</p>
+<h1 align="center"> Hello, I am Sayem Mahmud <h1>
 
                                                ## MERN Stack Developer || Frontend Developer - React JS
 Asif Iqbal Munna
