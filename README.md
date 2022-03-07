@@ -1,11 +1,11 @@
 <h1 align="center" font-weight="bold" > Hello, I am Sayem Mahmud </h1>
 
 <h2 align="center" font-weight="bold">MERN Stack Developer || Frontend Developer - React JS </h2>
-Asif Iqbal Munna
 
 
 
-Hi there, I am Asif Iqbal Munna, a MERN Stack Developer, having a vast interest to work with technology and eagerness to know more made my way of learning smoother hopefully it will continuously improve. I always want to learn by doing and get enough experience to be a senior Web Developer.
+
+Hi there, I Md.Sayem Mahmud, a MERN Stack Developer, having a vast interest to work with technology and eagerness to know more made my way of learning smoother hopefully it will continuously improve. I always want to learn by doing and get enough experience to be a senior Web Developer.
 Technologies I Know: Comfortable : JavaScript, ES6, React Js, React Router, HTML5, CSS3, Bootstrap
 
 Familiar: Express Js, Node Js, MongoDB, Material UI, Tailwind CSS, React Bootstrap, SCSS, TypeScript, WordPress, Elementor.
@@ -20,17 +20,15 @@ So, now I am looking forward to getting an internship or job opportunity in your
 
 Phone : +88 01707-742317
 
-<!--
-**Sayem-Mahmud/Sayem-Mahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning NestJS
+- 🤔 I’m looking for help with experienced tech people
+- 💬 Ask me about REACT, MERN stack
+- 📫 Email me: sayem.mahmud97@gmail.com
+- 👨‍💻 Checkout My Portfolio 
+- 📄 My Resume https://drive.google.com/file/d/1eyoOqZuNPy5cgacXSAWwoXnzvsTfcH5h/view?usp=sharing
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sayem-Mahmud&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
