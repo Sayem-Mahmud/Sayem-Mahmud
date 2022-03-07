@@ -1,4 +1,7 @@
-# Hello, I am Sayem Mahmud
+<p align="center">
+    # Hello, I am Sayem Mahmud
+</p>
+
                                                ## MERN Stack Developer || Frontend Developer - React JS
 Asif Iqbal Munna
 
