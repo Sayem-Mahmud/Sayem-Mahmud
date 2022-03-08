@@ -48,19 +48,62 @@ Here are some ideas to get you started:
 <br> <br> <br>
 
 ## Languages and Tools:
-<a href="https://www.instagram.com/sayem_mahmud97/">
-  <img align="left" alt="sayes Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://visualstudio.microsoft.com">
+  <img align="left" alt="vs code" width="30px" src="images/visual-studio.png" />
 </a>
-<a href="https://www.instagram.com/sayem_mahmud97/">
-  <img align="left" alt="sayes Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.w3schools.com/html/">
+  <img align="left" alt="html" width="30px" src="images/html-5.png" />
 </a>
-<a href="https://www.instagram.com/sayem_mahmud97/">
-  <img align="left" alt="sayes Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.w3schools.com/css/">
+  <img align="left" alt="css" width="30px" src="images/css.png" />
 </a>
-<a href="https://www.instagram.com/sayem_mahmud97/">
-  <img align="left" alt="sayes Instagram" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://getbootstrap.com">
+  <img align="left" alt="bootstrap" width="30px" src="images/bootstrap.png" />
+</a>
+<a href="https://www.w3schools.com/js/">
+  <img align="left" alt="Js" width="30px" src="images/js.png" />
+</a>
+<a href="https://reactjs.org">
+  <img align="left" alt="React" width="30px" src="images/react.png" />
+</a>
+<a href="https://nodejs.org/en/">
+  <img align="left" alt="Nodejs" width="30px" src="images/nodejs.png" />
+</a>
+<a href="https://expressjs.com">
+  <img align="left" alt="Expressjs" width="30px" src="images/express.jpg" />
+</a>
+</a>
+<a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_footprint_row_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624584&adgroup=115749713703&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EApO0AYVyJDAm4okGo1svlfmYnA1aVUBMKgvcUHWkR3KDEWDclZiFZoaAsexEALw_wcB">
+  <img align="left" alt="Mongodb" width="30px" src="images/mongoDb.png" />
+</a>
+<a href="https://www.typescriptlang.org">
+  <img align="left" alt="typescript" width="30px" src="images/typescript.png" />
+</a>
+<a href="https://nextjs.org">
+  <img align="left" alt="NextJs" width="30px" src="images/Nextjs.jpg" />
+</a>
+<a href="https://firebase.google.com/?gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAqWPqoFbAgdYouMUTUOfZhJ76RQsxXgFw2L7knZGbE6UL7UMedj2AcaApflEALw_wcB&gclsrc=aw.ds">
+  <img align="left" alt="Firebase" width="30px" src="images/firebase.png" />
+</a>
+<a href="https://www.heroku.com">
+  <img align="left" alt="Hiroku" width="30px" src="images/heroku.png" />
+</a>
+<a href="https://github.com">
+  <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://tailwindcss.com">
+  <img align="left" alt="TailwindCss" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://mui.com">
+  <img align="left" alt="Mui" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://slack.com">
+  <img align="left" alt="Slack" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://trello.com/en">
+  <img align="left" alt="Trello" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<br>
+<br> <br> <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sayem-Mahmud&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
