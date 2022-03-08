@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 <a href="https://mui.com">
   <img align="left" alt="Mui" width="30px" src="images/mui.png" />
 </a>
-<br>
+<br><br>
 <a href="https://slack.com">
   <img align="left" alt="Slack" width="30px" src="images/slack.png" />
 </a>
