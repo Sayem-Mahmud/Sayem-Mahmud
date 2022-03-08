@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 📫 Email me: sayem.mahmud97@gmail.com
 - ⚡ Fun fact: I love to keep animals
 - 👨‍💻 Checkout <a href="https://pensive-nightingale-37cdf7.netlify.app">My portfolio</a>
-- 📄 My <https://drive.google.com/file/d/1aMHrT2LBBW3sC1hsh9WupVp8SH0wZrOx/view?usp=sharing">Resume</a>
+- 📄 My <a href="https://drive.google.com/file/d/1aMHrT2LBBW3sC1hsh9WupVp8SH0wZrOx/view?usp=sharing"> Resume</a>
 
 <br>
 
