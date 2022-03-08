@@ -89,19 +89,19 @@ Here are some ideas to get you started:
   <img align="left" alt="Hiroku" width="30px" src="images/heroku.png" />
 </a>
 <a href="https://github.com">
-  <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Git" width="30px" src="images/github.png" />
 </a>
 <a href="https://tailwindcss.com">
-  <img align="left" alt="TailwindCss" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="TailwindCss" width="30px" src="images/tailwind.png" />
 </a>
 <a href="https://mui.com">
-  <img align="left" alt="Mui" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Mui" width="30px" src="images/mui.png" />
 </a>
 <a href="https://slack.com">
-  <img align="left" alt="Slack" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Slack" width="30px" src="images/slack.png" />
 </a>
 <a href="https://trello.com/en">
-  <img align="left" alt="Trello" width="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Trello" width="30px" src="images/trello.jpg" />
 </a>
 
 <br> <br> <br>
