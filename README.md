@@ -17,7 +17,7 @@ Some projects are done by me. I used previously mentioned technologies and essen
 
 So, now I am looking forward to getting an internship or job opportunity in your organization where I can sharpen my skills and will be able to learn more to fit best at my position.
 
-Phone : +88 01707-742317
+Phone : +88 01626-909723
 
 Here are some ideas to get you started:
 
