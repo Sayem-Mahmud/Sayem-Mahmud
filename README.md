@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about REACT, MERN stack
 - 📫 Email me: sayem.mahmud97@gmail.com
 - ⚡ Fun fact: I love to keep animals
-- 👨‍💻 Checkout My Portfolio <a href="https://pensive-nightingale-37cdf7.netlify.app">My portfolio</a>
-- 📄 My Resume 
+- 👨‍💻 Checkout <a href="https://pensive-nightingale-37cdf7.netlify.app">My portfolio</a>
+- 📄 My <https://drive.google.com/file/d/1aMHrT2LBBW3sC1hsh9WupVp8SH0wZrOx/view?usp=sharing">Resume</a>
 
 <br>
 
@@ -109,4 +109,9 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayem-Mahmud&theme=tokyonight"/>
 <br><br>
+<img width="500px" src="https://activity-graph.herokuapp.com/graph?username=Sayem-Mahmud&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Sayem-Mahmud&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<br><br>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Sayem-Mahmud&date_format=M%20j%5B%2C%20Y%5D"/>
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Sayem-Mahmud&title=Followers"/>
