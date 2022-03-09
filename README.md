@@ -9,7 +9,7 @@ Hi there, I Md. Sayem Mahmud, a MERN Stack Developer, having a vast interest to 
 
 ***Familiar:*** Express Js, Node Js, MongoDB, Material UI, Tailwind CSS, React Bootstrap, SCSS, TypeScript, Nextjs
 
-***Tools:*** Git, VS Code, Netlify, Firebase, Figma, Heroku, Chrome Dev Tool
+***Tools:*** Git, VS Code, Netlify, Firebase, Figma, Heroku, Chrome Dev Tool, Slack, Trello
 
 ***How I Code:*** I always try to divide my work into small pieces. Remain cautious about maintaining dry principle, manageable code, frequent commit, making comments whenever applicable and most importantly try to follow community best practices while writing code.
 
