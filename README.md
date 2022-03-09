@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayem-Mahmud&theme=tokyonight"/>
 <br><br>
-<img width="490px" src="https://activity-graph.herokuapp.com/graph?username=Sayem-Mahmud&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/>
+<img width="490px" src="https://activity-graph.herokuapp.com/graph?username=Sayem-mahmud&theme=github"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Sayem-Mahmud&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 <br><br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Sayem-Mahmud&date_format=M%20j%5B%2C%20Y%5D"/>
