@@ -9,11 +9,11 @@
 
 Hi there, I Md. Sayem Mahmud, a MERN Stack Developer, having a vast interest to work with technology and eagerness to know more made my way of learning smoother hopefully it will continuously improve. I always want to learn by doing and get enough experience to be a senior Web Developer.
 
-***Technologies I Know:*** Comfortable : JavaScript, ES6, React Js, React Router, HTML5, CSS3, Bootstrap
+***Technologies I Know:*** Comfortable : JavaScript, ES6, React Js, React Router, NextJs, HTML5, CSS3, Bootstrap, Tailwind CSS, Material UI, Typescript, Express Js, NestJs, Node Js, MongoDB
 
-***Familiar:*** Express Js, Node Js, MongoDB, Material UI, Tailwind CSS, React Bootstrap, SCSS, TypeScript, Nextjs
+***Familiar:***  Stripe, SSLCOMMERZ, Overmind, Usm-redux, nedb, playwright
 
-***Tools:*** Git, VS Code, Netlify, Firebase, Figma, Heroku, Chrome Dev Tool, Slack, Trello
+***Tools:*** Git, Gitlab, VS Code, Postman, Netlify, Firebase, Figma, Alwaysdata, Cyclic, Vercel, Heroku, Chrome Dev Tool
 
 ***How I Code:*** I always try to divide my work into small pieces. Remain cautious about maintaining dry principle, manageable code, frequent commit, making comments whenever applicable and most importantly try to follow community best practices while writing code.
 
