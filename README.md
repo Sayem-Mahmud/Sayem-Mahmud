@@ -26,13 +26,13 @@ Phone : +88 01626-909723
 Here are some ideas to get you started:
 
 - 🔭 Former employee of <a href="https://zorgitgroup.com">ZorgIT</a>
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning Redux
 - 🤔 I’m looking for help with experienced tech people
-- 💬 Ask me about REACT, MERN stack
+- 💬 Ask me about REACT,Next.js, MERN stack
 - 📫 Email me: sayem.mahmud97@gmail.com
 - ⚡ Fun fact: I love to keep animals
 - 👨‍💻 Checkout <a href="https://pensive-nightingale-37cdf7.netlify.app">My portfolio</a>
-- 📄 My <a href="https://drive.google.com/file/d/1aMHrT2LBBW3sC1hsh9WupVp8SH0wZrOx/view?usp=sharing"> Resume</a>
+- 📄 My <a href="[https://drive.google.com/file/d/1aMHrT2LBBW3sC1hsh9WupVp8SH0wZrOx/view?usp=sharing](https://drive.google.com/file/d/1rJ5x6jt-uzgqiIRmoFc2ZnX_odB_bruP/view?usp=sharing)"> Resume</a>
 
 <br>
 
