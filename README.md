@@ -19,16 +19,15 @@ Hi there, I Md. Sayem Mahmud, a MERN Stack Developer, having a vast interest to 
 
 Some projects are done by me. I used previously mentioned technologies and essential libraries and packages for those projects. They are linked down to the "Projects" part.
 
-So, now I am looking forward to getting an internship or job opportunity in your organization where I can sharpen my skills and will be able to learn more to fit best at my position.
-
 Phone : +88 01626-909723
 
 Here are some ideas to get you started:
 
+- 🔭 Currently working as a Jr.Full Stack Developer at <a href="https://zorgitgroup.com">RichIT</a>
 - 🔭 Former employee of <a href="https://zorgitgroup.com">ZorgIT</a>
 - 🌱 I’m currently learning Redux
 - 🤔 I’m looking for help with experienced tech people
-- 💬 Ask me about REACT,Next.js, MERN stack
+- 💬 Ask me about REACT, Next.js, MERN stack
 - 📫 Email me: sayem.mahmud97@gmail.com
 - ⚡ Fun fact: I love to keep animals
 - 👨‍💻 Checkout <a href="https://pensive-nightingale-37cdf7.netlify.app">My portfolio</a>
