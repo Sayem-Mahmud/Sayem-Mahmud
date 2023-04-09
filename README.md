@@ -1,8 +1,3 @@
-
-![images](https://user-images.githubusercontent.com/48946327/230797589-4b9ac46f-338a-42f3-80b3-b682fe3442e0.png)
-
-        <img src="https://user-images.githubusercontent.com/48946327/230797589-4b9ac46f-338a-42f3-80b3-b682fe3442e0.png" alt="Alt text" height="500px" width="100%" title="Optional title">
-
 <h1 align="center" font-weight="bold" > Hello, I am Sayem Mahmud </h1>
 
 <h2 align="center" font-weight="bold">MERN Stack Developer || Frontend Developer - React JS </h2>
