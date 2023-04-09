@@ -1,4 +1,4 @@
-<img height="500" width="200"  src="https://i.gifer.com/A64R.gif"/>
+<img height="500" width="200" src="https://i.gifer.com/A64R.gif"/>
 <h1 align="center" font-weight="bold" > Hello, I am Sayem Mahmud </h1>
 <!-- <iframe src="">via GIPHY</a></p> -->
 
