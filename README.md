@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://mobcoder.com/blog/wp-content/uploads/Mern.jpg](https://rishavchanda.io)
+[![MasterHead]([https://mobcoder.com/blog/wp-content/uploads/Mern.jpg])(https://rishavchanda.io)
         
 
 <h1 align="center" font-weight="bold" > Hello, I am Sayem Mahmud </h1>
