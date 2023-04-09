@@ -8,11 +8,11 @@
 
 Hi there, I Md. Sayem Mahmud, a MERN Stack Developer, having a vast interest to work with technology and eagerness to know more made my way of learning smoother hopefully it will continuously improve. I always want to learn by doing and get enough experience to be a senior Web Developer.
 
-***Technologies I Know:*** Comfortable : JavaScript, ES6, React Js, React Router, NextJs, HTML5, CSS3, Bootstrap, Tailwind CSS, Material UI, Typescript, Express Js, NestJs, Node Js, MongoDB
+***Language I Know:*** Javascript, C, C++, Python , PHP.
 
-***Familiar:***  Stripe, SSLCOMMERZ, Overmind, Usm-redux, nedb, playwright
+***Familiar:***  React, Next.js,  HTML, CSS, Bootstrap,  Tailwind CSS, Ant Design, MaterialUI,  NestJS,  Node.js, Typescript, PhpUnit, Playwright,Firebase, MongoDB,                    MYSQL, Next-Seo, Overmind, Usm-redux, Stripe, SSLCOMMERZ, Netlify, Vercel, Heroku,  Render, Cyclic, Alwaysdata.
 
-***Tools:*** Git, Gitlab, VS Code, Postman, Netlify, Firebase, Figma, Alwaysdata, Cyclic, Vercel, Heroku, Chrome Dev Tool
+***Tools:*** Trello, Slack, Jira, Github, Gitlab, Postman, Figma, Chrome Dev Tool
 
 ***How I Code:*** I always try to divide my work into small pieces. Remain cautious about maintaining dry principle, manageable code, frequent commit, making comments whenever applicable and most importantly try to follow community best practices while writing code.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📫 Email me: sayem.mahmud97@gmail.com
 - ⚡ Fun fact: I love to keep animals
 - 👨‍💻 Checkout <a href="https://pensive-nightingale-37cdf7.netlify.app">My portfolio</a>
-- 📄 My <a href="https://drive.google.com/file/d/1rJ5x6jt-uzgqiIRmoFc2ZnX_odB_bruP/view?usp=sharing"> Resume</a>
+- 📄 My <a href="https://drive.google.com/file/d/1wCLivjwRpyIMNJboyYKpgrv_bQGCbqoL/view?usp=sharing"> Resume</a>
 
 <br>
 
