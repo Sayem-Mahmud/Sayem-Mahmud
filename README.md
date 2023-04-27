@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about REACT, Next.js, MERN stack
 - 📫 Email me: sayem.mahmud97@gmail.com
 - ⚡ Fun fact: I love to keep animals
-- 👨‍💻 Checkout <a href="https://pensive-nightingale-37cdf7.netlify.app">My portfolio</a>
-- 📄 My <a href="https://drive.google.com/file/d/1wCLivjwRpyIMNJboyYKpgrv_bQGCbqoL/view?usp=sharing"> Resume</a>
+- 👨‍💻 Checkout <a href="https://sayem-portfolio.netlify.app">My portfolio</a>
+- 📄 My <a href="https://drive.google.com/file/d/1F8LLiatIzDSEKLukduTCkAb9LbGvfWXZ/view?usp=sharing"> Resume</a>
 
 <br>
 
